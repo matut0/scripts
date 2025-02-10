@@ -1,0 +1,5 @@
+admin@mycompany.com
+cool@mycompany.com
+mega@mycompany.com
+super@mycompany.com
+terraform@mycompany.com
